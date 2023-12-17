@@ -1,5 +1,5 @@
 # Gourav-s
 this is my third git repository
 <br>
-AUthor - Gourav Saini
+AUthor - Gourav (Apna college)
 
